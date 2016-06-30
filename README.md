@@ -1,0 +1,2 @@
+# clannad
+freshman's freshcode
